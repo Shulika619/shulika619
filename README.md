@@ -1,4 +1,4 @@
-[![MasterHead](https://cutewallpaper.org/21/technology-linkedin-background/futuristic-shape-abstract-background-Without-Limits.jpeg)](https://rishavchanda.io)
+<!-- [![MasterHead](https://cutewallpaper.org/21/technology-linkedin-background/futuristic-shape-abstract-background-Without-Limits.jpeg)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Sergey Shulika</h1>
 <h3 align="center">A passionate Java developer from Lugansk</h3>
 <img align="right" alt="coding" width="300" src="https://yt3.ggpht.com/a/AATXAJwIxuYY9MjneHQ6bSPVM5kDBAsOF_xvP2hcd1HLmw=s900-c-k-c0xffffffff-no-rj-mo">
