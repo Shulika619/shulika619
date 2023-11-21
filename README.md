@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shulika619@gmail.com**
 
-- ⚡ Fun fact **I am honest, punctual and responsible**
+- ⚡ Fun fact **I am an honest, punctual and responsible bald programmer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
