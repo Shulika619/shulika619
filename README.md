@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kafka, Testcontainers**
 
-- 💬 Ask me about **Java, Spring, Backend, Docker, PostgreSQL, Testing**
+- 💬 Ask me about **Java, Spring, Backend, Hibernate, Docker, PostgreSQL, Testing**
 
 - 📫 How to reach me **shulika619@gmail.com**
 
