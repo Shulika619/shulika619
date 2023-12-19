@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shulika619&label=Profile%20views&color=0e75b6&style=flat" alt="shulika619" /> </p>
 
-- 🌱 I’m currently learning **Kafka, Testcontainers**
+- 🌱 I’m currently learning **Kafka, gRPC, Testcontainers**
 
 - 💬 Ask me about **Java, Spring, Backend, Hibernate, Docker, PostgreSQL, Testing**
 
